@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"welcomeSplash": {
+			"component": "welcomesplash",
+			"url": "../../../../../"
+		}
+	}
+}
